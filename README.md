@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Seu Nome]
 
-![Banner] https://tenor.com/view/gear-5-gear-5-luffy-one-piece-luffy-luffy-gear-5-gif-12894867606070940412
+![Banner](https://tenor.com/view/gear-5-gear-5-luffy-one-piece-luffy-luffy-gear-5-gif-12894867606070940412)
 
 ## About Me
 
@@ -15,8 +15,7 @@ I've always had a fervent passion for technology, especially in the realms of co
 
 ## Let's Connect 🚀
 
-- LinkedIn: https://www.linkedin.com/in/leonardo-lucas-122205270/
-
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/leonardo-lucas-122205270/)
 - Email: leolucasbr89@proton.me
 
 Feel free to reach out for collaborations, discussions, or even just to geek out about tech and gaming!
