@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Leonardo Lucas]
 
-![Banner](https://tenor.com/view/gear-5-gear-5-luffy-one-piece-luffy-luffy-gear-5-gif-12894867606070940412)
+
 
 ## About Me
 
